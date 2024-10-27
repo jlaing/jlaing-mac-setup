@@ -7,4 +7,4 @@
 4. Install font
 5. Setup powerlevel10k
 6. Setup zsh
-    See (.zshrc)
+    See [.zshrc](.zshrc)
